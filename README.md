@@ -4,7 +4,7 @@ An app to meet new friends for your pet. Choose pets around a specific radius ar
 
 #### Tools used 
 - Nodejs
-- Handlebars
+- EJS Template
 - PassportJS
 - Express JS
 
